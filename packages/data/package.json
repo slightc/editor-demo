@@ -1,0 +1,19 @@
+{
+  "name": "@local/data",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "immer": "^10.1.1",
+    "shallowequal": "^1.1.0",
+    "zustand": "^4.5.5"
+  },
+  "devDependencies": {
+    "@types/shallowequal": "^1.1.5"
+  }
+}
